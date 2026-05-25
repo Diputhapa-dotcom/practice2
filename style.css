@@ -1,0 +1,14 @@
+#number{
+    border:1px solid black;
+    height:30px;
+    width:30px;
+    
+}
+.comments{
+    display: flex;
+    gap:10px;
+    margin:10px;
+}
+.form{
+    margin:10px;
+}
